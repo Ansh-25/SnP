@@ -1,7 +1,7 @@
 # SnP
 Strings & Pins is a social media Webapp created by me while learning Django.  
 
-it contains the following features: 
+It contains the following features: 
 1. User authentication system
 2. Extended login system using Google
 3. An editable user profile with profile pic , bio etc
